@@ -1,6 +1,0 @@
-C+commit
-second C
-3rd line
-after merged
-fooooooO
-hogehoge
