@@ -1,4 +1,4 @@
-from src.pkgA.calc import add
+from pkgA.calc import add
 
 
 def test_add():
