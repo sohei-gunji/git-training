@@ -1,0 +1,6 @@
+# https://qiita.com/Isaka-code/items/9c7fb54fc0bb2aaa5c83
+
+# name: Run tests on Push or PR
+# on:
+#   push:
+    
